@@ -8,4 +8,4 @@ Another challenging aspect was figuring out how to approach CSS grid from a resp
 
 By the time I completed the assignment, my eyes felt crossed and blurry. I checked my work at screen sizes of 1920px, 768px, and 414px to ensure it was responsive and resembled the mockups. By the end, I didn't trust my own eyes, so I had my significant other compare it to the mockups. He confirmed that it looked like the mockups.
 
-Thank you for your time and instruction. It is greatly appreciated. I would have been lost without your detailed video and the additional videos included. Overall, I learned alot and applying the videos to a real life webpage was educational and beneficial to my growth. 
+Thank you for your time and instruction. It is greatly appreciated. I would have been lost without your detailed video and the additional videos included. Overall, I think that I'll love CSS Grid once I have more practive with it. I learned alot and applying the videos to a real life webpage was educational and beneficial to my growth. 
